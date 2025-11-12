@@ -197,18 +197,37 @@ const Resume = () => {
             </ResumeItem>
             
             <ResumeItem className="experience-item">
-              <ItemTitle>FSC</ItemTitle>
+              <ItemTitle>Faculty of Sciences</ItemTitle>
               <ItemSubtitle>Pre-Engineering</ItemSubtitle>
               <ItemDate>2018 - 2020</ItemDate>
               <ItemDescription>
                 Studied Mathematics, Physics, and Chemistry, building a strong foundation in analytical thinking and problem-solving skills for engineering and technology fields.
               </ItemDescription>
             </ResumeItem>
+
+            <ResumeItem className="experience-item">
+              <ItemTitle>Matriculation</ItemTitle>
+              <ItemSubtitle>Biology</ItemSubtitle>
+              <ItemDate>2016 - 2018</ItemDate>
+              <ItemDescription>
+               Focused on Biology, Physics, and Chemistry, building a strong base in analytical and problem-solving skills.
+              </ItemDescription>
+            </ResumeItem>
+
           </ResumeColumn>
           
           <ResumeColumn>
             <h3><FaBriefcase /> Experience</h3>
             
+             <ResumeItem>
+              <ItemTitle>Front End Developer Intern</ItemTitle>
+              <ItemSubtitle>Apexcify Technologys & Elevvo Pathways </ItemSubtitle>
+              <ItemDate>Aug 2025 - Sep 2025</ItemDate>
+              <ItemDescription>
+                Worked on modern front-end practices with HTML, CSS, JS, React and Tailwind CSS
+              </ItemDescription>
+            </ResumeItem>
+
             <ResumeItem>
               <ItemTitle>MERN Developer</ItemTitle>
               <ItemSubtitle>Ebryx Pvt. Ltd.</ItemSubtitle>
@@ -219,7 +238,7 @@ const Resume = () => {
             </ResumeItem>
             
             <ResumeItem>
-              <ItemTitle>Web Development Intern</ItemTitle>
+              <ItemTitle>Web Developer Intern</ItemTitle>
               <ItemSubtitle>Disruptive Brain Pvt. Ltd.</ItemSubtitle>
               <ItemDate>July 2023 - Sep 2023</ItemDate>
               <ItemDescription>
