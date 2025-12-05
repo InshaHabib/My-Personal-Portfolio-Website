@@ -76,7 +76,7 @@ const Header = () => {
         <SocialIcon href="https://github.com/InshaHabib" target="_blank" aria-label="GitHub Profile">
           <FaGithub />
         </SocialIcon>
-        <SocialIcon href="https://www.linkedin.com/in/insha-habib-414441316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" aria-label="LinkedIn Profile">
+        <SocialIcon href="https://www.linkedin.com/in/insha-habib-414441316/" target="_blank" aria-label="LinkedIn Profile">
           <FaLinkedin />
         </SocialIcon>
         <SocialIcon href="mailto:inshahabib939@gmail.com" aria-label="Email Me">
